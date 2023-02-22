@@ -8,7 +8,7 @@ In order to use the program, you'll have to install opencv on your computer. You
 pip install opencv-python
 ```
 
-You can find more information about opencv from the following link: [opencv-pytohn](https://pypi.org/project/opencv-python/)
+Opencv package link: [opencv-python](https://pypi.org/project/opencv-python/)
 
 ## Usage
 ```bash
