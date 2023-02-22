@@ -19,4 +19,4 @@ python3 VideoToAscii <path-to-video> [-i] [-w frame-width-size]
 
 ## Showcase
 ![](https://github.com/AhmadElshiltawi/VideoToAscii/blob/main/Documents/maxwell.gif)
-[Original video](https://www.youtube.com/watch?v=kOG0_qjKWEI){:target="_blank"}
+[link](https://example.com){:target="_blank"}
