@@ -10,7 +10,7 @@ pip install opencv-python
 
 opencv package link: [opencv-python](https://pypi.org/project/opencv-python/)
 
-You can then download the program from this [github repository](https://github.com/AhmadElshiltawi/VideoToAscii/).
+You can then download and run `VideoToAscii.py` from this [github repository](https://github.com/AhmadElshiltawi/VideoToAscii/).
 
 ## Usage
 ```bash
