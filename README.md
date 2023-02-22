@@ -1,4 +1,4 @@
-# VideoOnTerminal
+# VideoToAscii
 A simple program that plays videos on the terminal.
 
 ## Installation
