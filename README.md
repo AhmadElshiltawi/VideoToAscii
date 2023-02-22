@@ -8,7 +8,9 @@ In order to use the program, you'll have to install opencv on your computer. You
 pip install opencv-python
 ```
 
-Opencv package link: [opencv-python](https://pypi.org/project/opencv-python/)
+opencv package link: [opencv-python](https://pypi.org/project/opencv-python/)
+
+You can then download the program from this [github repository](https://github.com/AhmadElshiltawi/VideoToAscii/).
 
 ## Usage
 ```bash
