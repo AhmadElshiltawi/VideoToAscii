@@ -2,7 +2,7 @@
 A simple program that plays a given video in ascii on the terminal
 
 ## Installation
-In order to use the program, you'll have to install opencv on your computer. You can download opencv by running the following command:
+In order to use the program, you'll have to install opencv on your computer. You can install opencv by running the following command:
 
 ```bash
 pip install opencv-python
