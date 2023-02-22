@@ -12,7 +12,7 @@ You can find more information about opencv from the following link: [opencv-pyto
 
 ## Usage
 ```bash
-python3 VideoToAscii <path to video> [-i] [-n pixel width size]
+python3 VideoToAscii <path-to-video> [-i] [-w frame-width-size]
 ```
 
 ## Showcase
