@@ -1,5 +1,5 @@
 # VideoToAscii
-A simple program that plays a given video in ascii on the terminal
+A simple program that plays videos on the terminal.
 
 ## Installation
 In order to use the program, you'll have to install opencv on your computer. You can install opencv by running the following command:
