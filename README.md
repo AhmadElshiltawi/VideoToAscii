@@ -14,7 +14,7 @@ You can then download and run `VideoToAscii.py` from this [github repository](ht
 
 ## Usage
 ```bash
-python3 VideoToAscii <path-to-video> [-i] [-w frame-width-size]
+python3 VideoToAscii.py <path-to-video> [-i] [-w frame-width-size]
 ```
 * path-to-video: The path of the video to be played on the terminal.
 * -i: Inverts the colour scale of the ascii characters
